@@ -1,2 +1,2 @@
-# Py_Mackenzie
-Tarefas e Projetos do EAD Mackenzie
+# Olá!
+Tarefas e Projetos
